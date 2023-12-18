@@ -1,2 +1,2 @@
 -- create Database
-create DATABASE Project;
+create DATABASE taskProject;
